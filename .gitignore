@@ -266,3 +266,9 @@ pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,venv,virtualenv
 
+/model.pickle
+/preprocessor.pickle
+/test_report.yml
+/train_report.yml
+/visualization_train.png
+/visualization_test.png

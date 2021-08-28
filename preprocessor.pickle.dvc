@@ -1,0 +1,4 @@
+outs:
+- md5: 24b328c5c35b4983f605102aa28ca02e
+  size: 489
+  path: preprocessor.pickle

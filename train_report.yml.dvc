@@ -1,0 +1,4 @@
+outs:
+- md5: 18f5b5a36247fdbf4a1751630d1ef8e8
+  size: 376
+  path: train_report.yml

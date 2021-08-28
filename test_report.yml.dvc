@@ -1,0 +1,4 @@
+outs:
+- md5: 4aaed38871f4c5cea122d964c7970982
+  size: 248
+  path: test_report.yml

@@ -1,0 +1,4 @@
+outs:
+- md5: 588ac43fd3cc4638636a857bf7e64c0e
+  size: 235062
+  path: visualization_test.png
